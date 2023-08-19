@@ -1,4 +1,4 @@
-<h3> Hi, I’m Sergey <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/sergey-dyukov/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<h3> Hi, I’m Sergey             <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/sergey-dyukov/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 <h5>I'm QA Software, Hardwere Engineer with experience in QA Automation and Manual Testing since 2011 </h3>
  <!---
