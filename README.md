@@ -1,12 +1,10 @@
-<h3> Hi, I’m Sergey             <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/sergey-dyukov/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<h3> Hi, I’m Sergey &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/sergey-dyukov/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-<h5>I'm QA Software, Hardwere Engineer with experience in QA Automation and Manual Testing since 2011 </h3>
- <!---
-`README.md` (this file) appears 
---->
+<h4>I am a QA Software and Hardware Testing Engineer with experience in QA Automation and Manual Testing since 2011</h4>
+ 
 <img src="https://github.com/Seryoga73/Seryoga73/assets/142071824/3e920fce-735c-4f39-b4fa-610638a6bd05">
 
-<h3 align="center"> Tools and languages
+<h5 align="center"> Tools and languages
 </div>
    <br><br>
   
